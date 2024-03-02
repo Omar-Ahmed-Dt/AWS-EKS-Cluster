@@ -11,6 +11,3 @@ This repository contains Terraform files to deploy a Kubernetes cluster in AWS. 
 - EKS Node Group
     1. Create EKS Worker Nodes EC2 Instances
     2. Create EKS Node Group IAM Role
-- Review the Sample Application Kubernetes Manifests
--  Deploy sample application and verify
-- Clean-Up (Sample Application and EKS Cluster and Node Groups)
